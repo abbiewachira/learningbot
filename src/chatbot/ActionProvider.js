@@ -23,6 +23,29 @@ class ActionProvider {
         this.addMessageToState(message);
       };
 
+      handleGeographyQuiz = () => {
+        const message = this.createChatBotMessage(
+          "Fantastic. Here is your quiz. Good luck!",
+          {
+            widget: "GeographyQuiz",
+          }
+        );
+    
+        this.addMessageToState(message);
+      };
+
+
+      handleCovidQuiz = () => {
+        const message = this.createChatBotMessage(
+          "Fantastic. Here is your quiz. Good luck!",
+          {
+            widget: "CovidQuiz",
+          }
+        );
+    
+        this.addMessageToState(message);
+      };
+
 
 
     addMessageToState = (message)=> {
