@@ -9,7 +9,7 @@ const Options =(props) => {
             handler: props.actionProvider.handleJavascriptQuiz,
             id:1,
         },
-        {text:"Area", handler:() =>{}, id: 2},
+        {text:"COVID-19", handler:props.actionProvider.handleCovidQuiz , id: 2},
         {text:"Volume", handler:() =>{}, id: 3},
     ];
     
