@@ -1,3 +1,11 @@
+
+Learningbot is a creative and fun impementation of a quiz application for e-learning purposes. Look at the live project [here](https://abbiewachira.github.io/learningbot/) 
+
+
+
+
+
+______________________________________________________________________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
