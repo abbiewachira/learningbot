@@ -9,13 +9,17 @@ const Options =(props) => {
             handler: props.actionProvider.handleJavascriptQuiz,
             id:1,
         },
-        {text:"Geography", 
-        handler:props.actionProvider.handleGeographyQuiz , 
-        id: 2},
+        {
+            text:"Geography", 
+            handler:props.actionProvider.handleGeographyQuiz , 
+            id: 2,
+        },
         
-        {text:"COVID-19", 
-        handler:props.actionProvider.handleCovidQuiz, 
-        id: 3},
+        {
+            text:"COVID-19", 
+            handler:props.actionProvider.handleCovidQuiz, 
+            id: 3,
+        },
     ];
     
     const buttonMarkup = options.map((option) => (

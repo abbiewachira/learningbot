@@ -90,16 +90,20 @@ widgets:[
                     answer:"The Netherlands",
                     id:7,
                 },
+            
                 {
                     question:"Which Ocean is to the west of Portugal?",
                     answer:"Atlantic",
                     id:8,
-                },
-                {
-                    widgetName:"CovidQuiz",
-                    widgetFunc:(props) => <Quiz{...props}/>,
-                    props:{
-                        questions:[
+                }
+            ],
+        },
+    },
+     {
+        widgetName:"CovidQuiz",
+        widgetFunc:(props) => <Quiz{...props}/>,
+            props:{
+                    questions:[
                             {
                                 question:"When was COVID-19 first reported?",
                                 answer:"It was first reported from Wuhan, China, on 31 December 2019.",
@@ -130,10 +134,10 @@ widgets:[
                     },
                 },
 
-            ]
+            
 
-        }
-    }
+        
+    
 
 
 ],
