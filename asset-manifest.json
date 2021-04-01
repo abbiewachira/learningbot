@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/learningbot/static/css/main.f8f0c0a3.chunk.css",
+    "main.js": "/learningbot/static/js/main.a0ced5de.chunk.js",
+    "main.js.map": "/learningbot/static/js/main.a0ced5de.chunk.js.map",
+    "runtime-main.js": "/learningbot/static/js/runtime-main.0b5aa1bb.js",
+    "runtime-main.js.map": "/learningbot/static/js/runtime-main.0b5aa1bb.js.map",
+    "static/js/2.11938f89.chunk.js": "/learningbot/static/js/2.11938f89.chunk.js",
+    "static/js/2.11938f89.chunk.js.map": "/learningbot/static/js/2.11938f89.chunk.js.map",
+    "static/js/3.8fcdf22d.chunk.js": "/learningbot/static/js/3.8fcdf22d.chunk.js",
+    "static/js/3.8fcdf22d.chunk.js.map": "/learningbot/static/js/3.8fcdf22d.chunk.js.map",
+    "index.html": "/learningbot/index.html",
+    "static/css/main.f8f0c0a3.chunk.css.map": "/learningbot/static/css/main.f8f0c0a3.chunk.css.map",
+    "static/js/2.11938f89.chunk.js.LICENSE.txt": "/learningbot/static/js/2.11938f89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b5aa1bb.js",
+    "static/js/2.11938f89.chunk.js",
+    "static/css/main.f8f0c0a3.chunk.css",
+    "static/js/main.a0ced5de.chunk.js"
+  ]
+}
